@@ -1,1 +1,3 @@
 To jest moje pierwsze repozytorium lokalne....
+
+... właśnie wprowadzam zmiany w pliku opis.txt.
